@@ -1,5 +1,5 @@
 package practice;
-import java.util.*; 
+import java.util.Scanner; 
 public class Begin1 {
 	public static void main(String[] args){
 		Scanner input = new Scanner(System.in); 
