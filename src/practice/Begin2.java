@@ -1,4 +1,5 @@
 package practice;
+//
 import java.util.Scanner; 
 public class Begin2 {
 	public static void main(String[] args){
