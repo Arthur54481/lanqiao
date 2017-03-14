@@ -23,5 +23,3 @@ public class Basic4 {
 		 System.out.println(sum);
 	}
 }
-
-
