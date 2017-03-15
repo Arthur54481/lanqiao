@@ -24,5 +24,4 @@ public class Basic3 {
             System.out.println("");
         }
 	}
-
 }

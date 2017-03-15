@@ -2,10 +2,6 @@ package practice2;
 
 public class Basic7 {
     public static void main(String[] args){
-//    	for(int a=100;a<1000;a++){
-//    		if(a==(a/100)*(a/100)*(a/100)+(a%100/10)*(a%100/10)*(a%100/10)+(a*10%100/10)+(a*10%100/10)+(a*10%100/10))
-//    			System.out.println(a);
-//    	}
     	for (int i = 1; i <= 9; i++) {
             for (int j = 0; j <= 9; j++) {
                 for (int k = 0; k <= 9; k++) {
