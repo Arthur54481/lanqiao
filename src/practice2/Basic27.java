@@ -2,15 +2,14 @@ package practice2;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
- 
+
 public class Basic27 {
         static int[] table1 = new int[9];
- 
         static int sum = 0, sum1 = 0;
         static boolean[] bool1 = new boolean[9];
         static boolean[] bool2 = new boolean[9];
         static List<String> list = new ArrayList<String>();
- 
+        
         public static void check(int k, int m, int[][] a, int[] table,
                         boolean[] bool, boolean flag) {
                 if (k == m + 1) {
