@@ -18,5 +18,6 @@ public class Basic14 {
 		    h=a/3600%60;
 		}
 		System.out.println(h+":"+m+":"+s);
+	
 	}
 }
